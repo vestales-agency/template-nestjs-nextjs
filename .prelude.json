@@ -1,4 +1,5 @@
 {
+  "name": "NestJS / NextJS",
   "configurators": [
     {
       "name": "aws"
