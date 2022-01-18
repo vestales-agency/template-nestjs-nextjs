@@ -1,0 +1,10 @@
+{
+  "configurators": [
+    {
+      "name": "aws"
+    },
+    {
+      "name": "docker"
+    }
+  ]
+}
