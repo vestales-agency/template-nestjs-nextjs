@@ -5,7 +5,7 @@
       "name": "aws"
     },
     {
-      "name": "docker"
+      "name": "docker-hub"
     }
   ]
 }
