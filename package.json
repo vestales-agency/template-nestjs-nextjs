@@ -1,0 +1,8 @@
+{
+  "name": "NestJS-NextJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vestales-agency/template-nestjs-nextjs.git",
+  "author": "rewieer <rewieer@gmail.com>",
+  "license": "MIT"
+}
